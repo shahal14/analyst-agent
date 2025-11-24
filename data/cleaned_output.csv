@@ -1,0 +1,3 @@
+company_name,category,sentiment_score,is_funding_news,_source_title,_source_url,_publishedAt
+Copa Conmebol,Sports Tournament Result,0.6,False,"⚠️ Dream over, Atlético-MG lose to Lanús in the Copa Sul-Americana final",https://onefootball.com/en/news/dream-over-atletico-mg-fall-to-lanus-in-copa-sul-americana-final-41989422,2025-11-22T22:51:00Z
+AI Industry,Technology/AI Strategy,-0.3,False,There Is Only One AI Company. Welcome to the Blob,https://biztoc.com/x/fecd24ae5991ed19,2025-11-22T22:19:50Z
