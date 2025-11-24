@@ -1,4 +1,4 @@
-nalyst Agent — News Intelligence Automation 
+Analyst Agent — News Intelligence Automation 
 
 This repository contains my solution for the AI/ML & Automation Internship 
 
@@ -173,3 +173,4 @@ Deliverables Checklist
  README.md
 
  GitHub repository
+
